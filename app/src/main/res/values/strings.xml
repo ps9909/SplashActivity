@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Splash Activity Demo</string>
+    <string name="tvText">MAIN ACTIVITY HOME PAGE</string>
+    <string name="tvText2">SPLASH SCREEN. COMPANY LOGO</string>
+</resources>
